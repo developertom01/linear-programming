@@ -7,7 +7,7 @@
 #### Create virtual environment and activate the environment on your console
 
 ```
-   $ python3 venv venv && ./venv/bin/activate
+   $ python3 -m venv venv && ./venv/bin/activate
 ```
 
 #### Install requirements
